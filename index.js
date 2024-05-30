@@ -12,7 +12,7 @@ qrText.addEventListener("input", handleQRText);
 sizes.addEventListener("change", handleSize);
 shareBtn.addEventListener("click", handleShare);
 
-const defaultUrl = "https://youtube.com/@AsmrProg";
+const defaultUrl = "https://github.com/deeptesh-rout?tab=repositories";
 let colorLight = "#fff",
     colorDark = "#000",
     text = defaultUrl,
